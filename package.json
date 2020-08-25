@@ -1,6 +1,6 @@
 {
   "name": "terraformer",
-  "version": "1.0.9",
+  "version": "1.0.12",
   "description": "A Geo-toolkit built in Javascript.",
   "main": "terraformer.js",
   "typings": "terraformer.d.ts",
@@ -42,7 +42,7 @@
   ],
   "license": "MIT",
   "optionalDependencies": {
-    "@types/geojson": "^7946.0.0 || ^1.0.0"
+    "@types/geojson": "^7946.0.0"
   },
   "engines": {
     "node": ">=4.2.6"
